@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.knbr.com/gary-larry-podcast/'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-10T19:44:35.801Z'
-dateModified: '2016-04-10T19:42:29.711Z'
+description: KNBR in Studio with Larry on 3-28-16
+datePublished: '2016-04-10T19:44:35.803Z'
+dateModified: '2016-04-10T19:43:52.544Z'
 author: []
 related: []
 app_links: []
@@ -25,8 +25,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-KNBR in the Lounge with Garry & Larry
+KNBR in Studio with Larry on 3-28-16
 
 <article style=""><h1>Gary &amp; Larry Podcast</h1><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/listenlive.png" /></article>
 
-3-17-16 appearance starts at 11:15 mark
+Talking about College Hoops, Warriors and more
