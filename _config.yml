@@ -1,41 +1,28 @@
-title: Official Website for Kerry Keating
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0.3125
-  brandStrength: 0.375
-  lightness: 0.5017921
-  brandColors:
-    - '#030305'
-    - '#fefefe'
-    - '#c4c4c6'
-    - '#606062'
-    - '#61371e'
-  rhythmicContrast: 0.5
+name: Kerry Keating
+favicon: null
+layout_spectrum: 0.33004377759061754
+typography_spectrum: 0.6596254450269043
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Kerry Keating
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
-layout_spectrum: 0.3853047
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.07893264573067427
+  lightness: 0.08126078266650438
+  saturation: 0.014251298271119595
+  rhythmicContrast: 0.7055543451569974
+purpose: []
