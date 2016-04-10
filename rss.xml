@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kerry Keating]]></title>
+        <description><![CDATA[Kerry Keating]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 18:33:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3-14-16 KNBR in Studio  ]]></title>
+            <description><![CDATA[<article><h1>3-14-16 KNBR in Studio  </h1><p>Murph and Mac, Springsteen, Bob's Donuts, Hoops and more!</p></article>]]></description>
+            <link>http://embeds.audioboom.com/publishing/playlist/v4?boo_content_type=channel&amp;data_for_content_type=3273562&amp;image_option=small&amp;link_color=%2358d1eb&amp;player_theme=light&amp;show_title=true&amp;src=https%3A%2F%2Fapi.audioboom.com%2Fchannels%2F3273562%2Faudio_clips%3Finclude_child_channels%3D1&amp;max_height=500#3-14%20Total%20Recall,%20Mike%20Krukow,%20Kerry%20Keating</link>
+            <guid isPermaLink="false">17009fb0-449d-4f8e-9745-c0a51e78ee73</guid>
+            <pubDate>Sun, 10 Apr 2016 18:33:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
