@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kerry Keating]]></title>
         <description><![CDATA[Kerry Keating]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kerry-keating/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 18:17:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 18:19:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kerry-keating/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KNBR in studio appearance]]></title>
             <description><![CDATA[<article><h1>KNBR in studio appearance</h1><p>Murph and Mac on 3-17-16 (starts at 36:00 mark)</p></article>]]></description>
             <link>http://embeds.audioboom.com/publishing/playlist/v4?boo_content_type=channel&amp;data_for_content_type=3273821&amp;image_option=small&amp;link_color=%2358d1eb&amp;player_theme=light&amp;show_title=true&amp;src=https%3A%2F%2Fapi.audioboom.com%2Fchannels%2F3273821%2Faudio_clips%3Finclude_child_channels%3D1&amp;max_height=890#3-28%20Kerry%20Keating%20says%20Shaun%20Livingston%20is%20one%20of%20the%20unsung%20players%20on%20the%20W&apos;s</link>
             <guid isPermaLink="false">0e954b50-e411-44a3-8a29-eaea8fc659ce</guid>
-            <pubDate>Sun, 10 Apr 2016 18:17:11 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 18:19:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
