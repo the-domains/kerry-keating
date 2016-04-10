@@ -7,20 +7,20 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Murph and Mac on 3-17-16 (starts at 36:00 mark)'
-datePublished: '2016-04-10T18:17:11.302Z'
-dateModified: '2016-04-10T18:16:40.005Z'
+datePublished: '2016-04-10T18:19:17.936Z'
+dateModified: '2016-04-10T18:19:15.410Z'
 author: []
 related: []
 app_links: []
 title: KNBR in studio appearance
+sourcePath: _posts/2016-04-10-knbr-in-studio-appearance.md
+published: true
 authors: []
 publisher:
   name: Audioboom
   domain: embeds.audioboom.com
   url: 'http://embeds.audioboom.com'
   favicon: 'http://embeds.audioboom.com/favicon.ico'
-sourcePath: _posts/2016-04-10-knbr-in-studio-appearance.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
