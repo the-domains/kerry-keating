@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.knbr.com/gary-larry-podcast/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: KNBR in Studio with Larry on 3-28-16
-datePublished: '2016-04-10T19:44:35.803Z'
-dateModified: '2016-04-10T19:43:52.544Z'
+datePublished: '2016-04-11T02:56:34.491Z'
+dateModified: '2016-04-10T19:55:35.602Z'
 author: []
 related: []
 app_links: []
