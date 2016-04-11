@@ -4,7 +4,7 @@
         <description><![CDATA[www.kerrykeating.com]]></description>
         <link>https://thegrid.ai/kerry-keating/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 15:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kerry-keating/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DB Show - Hour 4 - 3/16/16]]></title>
@@ -33,6 +33,13 @@
             <link>http://www.knbr.com/gary-larry-podcast/</link>
             <guid isPermaLink="false">f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f</guid>
             <pubDate>Mon, 11 Apr 2016 02:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Studio at Comcast 3-14-16 March Madness Special]]></title>
+            <description><![CDATA[<article><h1>In Studio at Comcast 3-14-16 March Madness Special</h1><img src="http://img.youtube.com/vi/vPY-4tqj9RA/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=vPY-4tqj9RA</link>
+            <guid isPermaLink="false">22197f70-5334-4340-881a-e8ae7f716491</guid>
+            <pubDate>Mon, 11 Apr 2016 15:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
