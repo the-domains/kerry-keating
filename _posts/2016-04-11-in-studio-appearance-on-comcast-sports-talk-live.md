@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Uploaded by kerry keating on 2016-04-11.
-datePublished: '2016-04-11T15:51:09.752Z'
-dateModified: '2016-04-11T15:48:32.936Z'
+datePublished: '2016-04-11T15:55:30.617Z'
+dateModified: '2016-04-11T15:54:18.394Z'
 author:
   - name: kerry keating
     url: 'https://www.youtube.com/channel/UCrKzy1fl5u8Z92zU34cNxsQ'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: In Studio Appearance on Comcast Sports Talk Live
+sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
