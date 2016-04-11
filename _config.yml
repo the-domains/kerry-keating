@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Official Website for Kerry Keating
+title: www.kerrykeating.com
 cta:
   domain: null
   bucket: null
