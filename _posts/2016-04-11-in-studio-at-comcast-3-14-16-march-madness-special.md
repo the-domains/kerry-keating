@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-11T15:55:25.114Z'
-dateModified: '2016-04-11T15:55:01.134Z'
+datePublished: '2016-04-12T00:07:20.238Z'
+dateModified: '2016-04-12T00:07:19.487Z'
 author: []
 related: []
 app_links: []
 title: In Studio at Comcast 3-14-16 March Madness Special
+sourcePath: _posts/2016-04-11-in-studio-at-comcast-3-14-16-march-madness-special.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'http://youtube.com'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-11-in-studio-at-comcast-3-14-16-march-madness-special.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
