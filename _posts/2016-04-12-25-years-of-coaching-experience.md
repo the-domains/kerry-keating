@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-12T12:01:43.666Z'
-dateModified: '2016-04-12T12:01:35.175Z'
+datePublished: '2016-04-12T12:22:43.604Z'
+dateModified: '2016-04-12T12:22:40.015Z'
 title: 25 years of coaching experience
 author: []
 authors: []
@@ -31,4 +31,4 @@ _type: Article
 * Player Development on and off the floor
 
 * 100% graduation rate
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7c6668-e77d-4182-8165-ed44fbb9de67.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1673ce6-1a6b-477c-b653-307aadc04117.jpg)
