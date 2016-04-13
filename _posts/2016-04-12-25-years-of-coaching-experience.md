@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-12T12:22:43.604Z'
-dateModified: '2016-04-12T12:22:40.015Z'
+datePublished: '2016-04-13T17:38:13.710Z'
+dateModified: '2016-04-13T17:38:01.667Z'
 title: 25 years of coaching experience
 author: []
 authors: []
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-04-12-25-years-of-coaching-experience.md
 published: true
-url: 25-years-of-coaching-experience/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 25 years of coaching experience
