@@ -16,8 +16,8 @@ keywords:
   - save
   - adobe
 description: "Music Player for Google Drive is a simple and lightweight online music player for your audio files stored in Google Drive. It lets you open music files directly from Google Drive or from its own interface. Music Player for Google Drive offers: Playback of MP3 files, MP4, OGG (Audio), WAV, ACC (iTune's .m4a files), webm (Audio)."
-datePublished: '2016-04-20T16:00:34.269Z'
-dateModified: '2016-04-20T15:58:19.069Z'
+datePublished: '2016-04-20T16:00:39.866Z'
+dateModified: '2016-04-20T16:00:39.204Z'
 author:
   - name: ''
     url: ''
