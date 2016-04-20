@@ -17,22 +17,22 @@ keywords:
   - save
   - adobe
 description: Click here
-datePublished: '2016-04-20T16:00:39.619Z'
-dateModified: '2016-04-20T16:00:38.974Z'
+datePublished: '2016-04-20T16:00:43.810Z'
+dateModified: '2016-04-20T16:00:43.078Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: January Podcast
+sourcePath: _posts/2016-04-20-january-podcast.md
+published: true
 authors: []
 publisher:
   name: Driveplayer
   domain: www.driveplayer.com
   url: 'http://www.driveplayer.com'
   favicon: 'http://www.driveplayer.com/images/icon_128.png'
-sourcePath: _posts/2016-04-20-january-podcast.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
