@@ -15,28 +15,28 @@ keywords:
   - lastfm
   - save
   - adobe
-description: "Music Player for Google Drive is a simple and lightweight online music player for your audio files stored in Google Drive. It lets you open music files directly from Google Drive or from its own interface. Music Player for Google Drive offers: Playback of MP3 files, MP4, OGG (Audio), WAV, ACC (iTune's .m4a files), webm (Audio)."
-datePublished: '2016-04-20T16:00:39.866Z'
-dateModified: '2016-04-20T16:00:39.204Z'
+description: Click here to listen
+datePublished: '2016-04-20T16:07:29.937Z'
+dateModified: '2016-04-20T16:06:26.538Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: February Podcast
+title: December Podcast
+sourcePath: _posts/2016-04-20-february-podcast.md
+published: true
 authors: []
 publisher:
   name: Driveplayer
   domain: www.driveplayer.com
   url: 'http://www.driveplayer.com'
   favicon: 'http://www.driveplayer.com/images/icon_128.png'
-sourcePath: _posts/2016-04-20-february-podcast.md
-published: true
 url: february-podcast/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# February Podcast
+# December Podcast
 
 <article style=""><h1>Music Player for Google Drive</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b6b88b388baa4161fb1f7247bf58474df6b9a15.png" /></article>
