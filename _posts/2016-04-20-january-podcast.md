@@ -17,8 +17,8 @@ keywords:
   - save
   - adobe
 description: Click here
-datePublished: '2016-04-20T16:00:43.810Z'
-dateModified: '2016-04-20T16:00:43.078Z'
+datePublished: '2016-04-20T16:07:35.534Z'
+dateModified: '2016-04-20T16:04:09.553Z'
 author:
   - name: ''
     url: ''
@@ -39,4 +39,4 @@ _type: MediaObject
 ---
 # January Podcast
 
-<article style=""><h1>January Podcast</h1><p>Click here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b6b88b388baa4161fb1f7247bf58474df6b9a15.png" /></article>
+<article style=""><h1>January Podcast</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b6b88b388baa4161fb1f7247bf58474df6b9a15.png" /></article>
