@@ -1,15 +1,16 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.knbr.com/gary-larry-podcast/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T18:22:07.652Z'
-dateModified: '2016-04-12T18:22:02.567Z'
-author: []
+datePublished: '2016-04-21T04:48:37.948Z'
+dateModified: '2016-04-21T04:48:26.982Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: KNBR in Studio with Larry on 3-28-16
@@ -21,6 +22,7 @@ publisher:
   domain: www.knbr.com
   url: 'http://www.knbr.com'
   favicon: 'http://www.knbr.com/wp-content/uploads/sites/82/2015/06/favicon.ico'
+url: knbr-in-studio-with-larry-on-3-28-16/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
