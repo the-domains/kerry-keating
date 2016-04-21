@@ -4,7 +4,7 @@
         <description><![CDATA[www.kerrykeating.com]]></description>
         <link>https://thegrid.ai/kerry-keating/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 04:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 04:53:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kerry-keating/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[3-17-16 appearance starts at 11:15 mark]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.knbr.com/gary-larry-podcast/</link>
             <guid isPermaLink="false">b77da8a3-8e15-4f91-be13-f811e74e7e7b</guid>
             <pubDate>Tue, 12 Apr 2016 03:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3.14.16 In Studio at Comcast March Madness Special]]></title>
+            <description><![CDATA[<article><h1>3.14.16 In Studio at Comcast March Madness Special</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c1043133d0f20e05a8cf89251bcc1eb6589f5b0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=vPY-4tqj9RA</link>
+            <guid isPermaLink="false">22197f70-5334-4340-881a-e8ae7f716491</guid>
+            <pubDate>Thu, 21 Apr 2016 04:53:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Damon Bruce Show 3/16/16]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/kerry-keating/3-14-16-knbr-in-studio-starts-3600-mark/index.html</link>
             <guid isPermaLink="false">17009fb0-449d-4f8e-9745-c0a51e78ee73</guid>
             <pubDate>Wed, 13 Apr 2016 17:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Studio at Comcast 3-14-16 March Madness Special]]></title>
-            <description><![CDATA[<article><h1>In Studio at Comcast 3-14-16 March Madness Special</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c1043133d0f20e05a8cf89251bcc1eb6589f5b0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kerry-keating/in-studio-at-comcast-3-14-16-march-madness-special/index.html</link>
-            <guid isPermaLink="false">22197f70-5334-4340-881a-e8ae7f716491</guid>
-            <pubDate>Tue, 12 Apr 2016 00:15:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
