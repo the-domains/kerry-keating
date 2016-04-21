@@ -1,10 +1,9 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.driveplayer.com/#fileIds=0BxFed2n9evXcZ1VvMnVqQTV4aGM&userId=116943233485758540757'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - flash
   - browser
@@ -17,8 +16,8 @@ keywords:
   - save
   - adobe
 description: Click here
-datePublished: '2016-04-20T17:17:40.182Z'
-dateModified: '2016-04-20T17:17:06.261Z'
+datePublished: '2016-04-21T04:55:17.037Z'
+dateModified: '2016-04-21T04:55:07.223Z'
 author:
   - name: ''
     url: ''
@@ -33,6 +32,7 @@ publisher:
   domain: www.driveplayer.com
   url: 'http://www.driveplayer.com'
   favicon: 'http://www.driveplayer.com/images/icon_128.png'
+url: january-podcast/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
