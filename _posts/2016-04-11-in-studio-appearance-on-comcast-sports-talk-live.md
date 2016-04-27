@@ -3,14 +3,13 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T04:54:05.254Z'
-dateModified: '2016-04-21T04:53:53.455Z'
+datePublished: '2016-04-27T18:16:55.727Z'
+dateModified: '2016-04-27T17:55:38.610Z'
 author:
   - name: ''
-    url: 'https://www.youtube.com/channel/UCrKzy1fl5u8Z92zU34cNxsQ'
+    url: ''
     avatar: {}
 related: []
 app_links: []
@@ -23,6 +22,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 url: 32116-in-studio-on-comcast-sports-talk-live/index.html
 _type: VideoObject
 _context: 'http://schema.org'
