@@ -1,17 +1,15 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=vPY-4tqj9RA'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-27T23:40:46.248Z'
-dateModified: '2016-04-21T04:53:40.873Z'
+datePublished: '2016-04-27T23:45:18.293Z'
+dateModified: '2016-04-27T23:45:15.238Z'
 author:
   - name: ''
-    url: 'https://www.youtube.com/watch?v=vPY-4tqj9RA'
+    url: ''
 related: []
 app_links: []
 title: 3.14.16 In Studio at Comcast March Madness Special
@@ -23,6 +21,8 @@ publisher:
   domain: www.youtube.com
   url: 'http://youtube.com'
   favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
+url: 31416-in-studio-at-comcast-march-madness-special/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
