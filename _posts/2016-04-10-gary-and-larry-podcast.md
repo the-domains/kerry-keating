@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T20:10:43.470Z'
-dateModified: '2016-05-10T20:10:34.300Z'
+datePublished: '2016-05-10T20:33:21.272Z'
+dateModified: '2016-05-10T20:18:37.814Z'
 author:
   - name: ''
     url: ''
@@ -26,7 +26,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# [KNBR in Studio with Larry on 3-28-16][0]
+# [3-28-16 in KNBR Studio with Larry][0]
 
 ## [Talking about College Hoops, Warriors and more][0]
 
