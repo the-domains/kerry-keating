@@ -1,0 +1,26 @@
+---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-11T20:34:24.629Z'
+dateModified: '2016-05-11T20:33:57.700Z'
+title: 'Podcast #3 January 2016'
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+sourcePath: _posts/2016-05-11-podcast-3-january-2016.md
+url: podcast-3-january-2016/index.html
+_type: Article
+
+---
+# [Podcast \#3 January 2016][0]
+
+[0]: https://soundcloud.com/kerry-keating-951355944/3-january/s-wtgfM
