@@ -5,14 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T20:07:24.996Z'
-dateModified: '2016-05-11T18:26:05.815Z'
-author:
-  - name: ''
-    url: ''
+datePublished: '2016-05-11T20:17:49.144Z'
+dateModified: '2016-05-11T20:17:46.377Z'
+author: []
 related: []
 app_links: []
-title: 3-28-16 in KNBR Studio with Larry
+title: 'In the KNBR Lounge with Garry & Larry'
 sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
 authors: []
 publisher:
@@ -21,13 +19,14 @@ publisher:
   url: 'http://www.knbr.com'
   favicon: 'http://www.knbr.com/wp-content/uploads/sites/82/2015/06/favicon.ico'
 starred: false
-url: knbr-in-studio-with-larry-on-3-28-16/index.html
+url: in-the-knbr-lounge-with-garry-and-larry/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# [3-28-16 in KNBR Studio with Larry][0]
+# [In the KNBR Lounge with Garry & Larry][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c75c80ca-2024-4255-9f3a-aa6a7b74cc37.jpg)
 
-## [Talking about College Hoops, Warriors and more][0]
+## 
 
-[0]: https://audioboom.com/boos/4359545-3-28-kerry-keating-says-shaun-livingston-is-one-of-the-unsung-players-on-the-w-s?t=0
+[0]: https://audioboom.com/boos/4317057-3-17-gary-and-larry-chat-with-kerry-keating-adonal-foyle?utm_campaign=detailpage&utm_content=retweet&utm_medium=social&utm_source=googleplus
