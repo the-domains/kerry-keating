@@ -1,7 +1,7 @@
 name: Kerry Keating
 favicon: null
-layout_spectrum: 0.1774193
-typography_spectrum: 0.1039427
+layout_spectrum: 0.25778
+typography_spectrum: 1
 title: www.kerrykeating.com
 collections:
   - index:
@@ -30,12 +30,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#aba9aa'
     - '#000000'
-    - '#3b3b3b'
-    - '#ee090b'
-  brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.375
-  rhythmicContrast: 0.5
+    - '#1c86eb'
+    - '#113f97'
+    - '#a1a1a1'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
