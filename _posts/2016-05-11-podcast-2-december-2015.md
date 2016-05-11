@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T20:34:24.678Z'
-dateModified: '2016-05-11T20:34:11.812Z'
+datePublished: '2016-05-11T20:36:55.384Z'
+dateModified: '2016-05-11T20:36:43.412Z'
 title: 'Podcast #2 December 2015'
 author: []
+sourcePath: _posts/2016-05-11-podcast-2-december-2015.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-podcast-2-december-2015.md
 url: podcast-2-december-2015/index.html
 _type: Article
 
