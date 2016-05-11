@@ -1,18 +1,18 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T20:33:21.272Z'
-dateModified: '2016-05-10T20:18:37.814Z'
+datePublished: '2016-05-11T20:07:24.996Z'
+dateModified: '2016-05-11T18:26:05.815Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: KNBR in Studio with Larry on 3-28-16
+title: 3-28-16 in KNBR Studio with Larry
 sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
 authors: []
 publisher:
