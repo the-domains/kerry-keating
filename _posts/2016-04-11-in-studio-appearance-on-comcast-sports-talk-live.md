@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T18:16:55.727Z'
-dateModified: '2016-04-27T17:55:38.610Z'
+datePublished: '2016-05-12T19:03:33.531Z'
+dateModified: '2016-05-12T19:03:32.799Z'
 author:
   - name: ''
     url: ''
@@ -15,14 +15,13 @@ related: []
 app_links: []
 title: 3.21.16 In Studio on Comcast Sports Talk Live
 sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-starred: false
+starred: true
 url: 32116-in-studio-on-comcast-sports-talk-live/index.html
 _type: VideoObject
 _context: 'http://schema.org'
