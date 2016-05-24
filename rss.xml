@@ -4,8 +4,15 @@
         <description><![CDATA[www.kerrykeating.com]]></description>
         <link>https://thegrid.ai/kerry-keating/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 15:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 00:00:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kerry-keating/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Western Conference Finals Preview on CSN SportsTalk Live 5.16.16]]></title>
+            <description><![CDATA[<article><h1>Western Conference Finals Preview on CSN SportsTalk Live 5.16.16</h1><p>In studio with Jim Kozimor talking about OKC, Westbrook and the coaching matchup</p></article>]]></description>
+            <link>https://thegrid.ai/kerry-keating/western-conference-finals-preview-on-csn-sportstalk-live-51/index.html</link>
+            <guid isPermaLink="false">4812a27b-c463-46e7-b63b-8677c3d694da</guid>
+            <pubDate>Tue, 24 May 2016 00:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3.21.16 In Studio on Comcast Sports Talk Live]]></title>
             <description><![CDATA[<article><h1>3.21.16 In Studio on Comcast Sports Talk Live</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3abc36f50830675e4b727f47f0d12b920b6c2350.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kerry-keating/knbr-in-studio-with-larry-on-3-28-16/index.html</link>
             <guid isPermaLink="false">f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f</guid>
             <pubDate>Wed, 11 May 2016 20:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast #1 November 2015]]></title>
-            <description><![CDATA[<h1>Podcast #1 November 2015</h1>]]></description>
-            <link>https://thegrid.ai/kerry-keating/podcast-1-november-2015/index.html</link>
-            <guid isPermaLink="false">42efc185-cf13-4b66-a7b4-2861d28d9c9c</guid>
-            <pubDate>Wed, 11 May 2016 20:01:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
