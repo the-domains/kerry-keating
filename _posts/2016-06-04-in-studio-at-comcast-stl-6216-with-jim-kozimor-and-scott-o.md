@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T04:06:22.528Z'
-dateModified: '2016-06-04T04:06:22.132Z'
-title: In studio at Comcast STL 6.2.16 with Jim Kozimor and Scott Ostler
+datePublished: '2016-06-04T04:08:37.036Z'
+dateModified: '2016-06-04T04:08:31.626Z'
+title: In studio at Comcast STL 6.1.16 with Jim Kozimor and Scott Ostler
 author: []
 authors: []
 publisher: null
@@ -18,8 +18,8 @@ url: in-studio-at-comcast-stl-6216-with-jim-kozimor-and-scott-o/index.html
 _type: Article
 
 ---
-# [In studio at Comcast STL 6.2.16 with Jim Kozimor and Scott Ostler][0]
+# [In studio at Comcast STL 6.1.16 with Jim Kozimor and Scott Ostler][0]
 
-## [Comcast STL 6.2.16 with Jim Kozimor ][0][Breaking down the NBA Finals][0]
+## [Comcast STL 6.1.16 with Jim Kozimor ][0][Breaking down the NBA Finals][0]
 
 [0]: https://youtu.be/4sAnziFcjfo
