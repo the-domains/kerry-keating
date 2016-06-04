@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T04:08:37.036Z'
-dateModified: '2016-06-04T04:08:31.626Z'
+datePublished: '2016-06-04T06:42:38.501Z'
+dateModified: '2016-06-04T04:19:10.717Z'
 title: In studio at Comcast STL 6.1.16 with Jim Kozimor and Scott Ostler
 author: []
 authors: []
