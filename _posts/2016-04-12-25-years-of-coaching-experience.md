@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T18:25:00.270Z'
-dateModified: '2016-05-11T17:59:56.439Z'
+datePublished: '2016-06-04T04:07:12.117Z'
+dateModified: '2016-05-12T17:51:01.704Z'
 title: 25 years of coaching experience
 author: []
 sourcePath: _posts/2016-04-12-25-years-of-coaching-experience.md
