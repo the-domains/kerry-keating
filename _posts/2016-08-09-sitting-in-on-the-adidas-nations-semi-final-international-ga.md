@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-09T00:20:09.006Z'
-dateModified: '2016-08-09T00:20:02.707Z'
-title: 'Sitting in on the Adidas Nations Semi Final International Game '
+datePublished: '2016-08-09T02:46:29.080Z'
+dateModified: '2016-08-09T02:37:20.574Z'
+title: Sitting in on the Adidas Nations Semi Final International Game
 author: []
 via: {}
 sourcePath: >-
