@@ -1,22 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-06-04T04:07:12.117Z'
-dateModified: '2016-05-12T17:51:01.704Z'
-title: 25 years of coaching experience
-author: []
+datePublished: '2016-08-22T18:50:37.201Z'
 sourcePath: _posts/2016-04-12-25-years-of-coaching-experience.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-22T18:50:36.554Z'
+title: 25 years of coaching experience
+publisher: {}
+description: >-
+  NCAA, NIT, CBI, CIT finals appearances - 3 Championships / Player Development
+  on and off the floor / 100% graduation rate
+inLanguage: null
+inNav: false
 starred: true
 _type: Blurb
 
@@ -25,6 +23,9 @@ _type: Blurb
 
 ## Big East / ACC / SEC / SoCon / WAC / PAC 12 / WCC
 
-* NCAA, NIT, CBI, CIT finals appearances / Player Development on and off the floor / 100% graduation rate
-* Nationwide relationships / Technological Prowess / Media Savvy
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/321c5d26-eef8-4be9-a0c1-ea8ba08e9ac1.jpg)
+NCAA, NIT, CBI, CIT finals appearances - 3 Championships / Player Development on and off the floor / 100% graduation rate
+
+Nationwide relationships / Technological Prowess / Media Savvy
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f26944e-a928-4d44-b00c-af7f7d039365.jpg)
+
+*
