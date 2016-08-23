@@ -1,24 +1,37 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-11T20:36:55.384Z'
-dateModified: '2016-05-11T20:36:43.412Z'
+id: dcaa4dd0-bd3e-4822-a32a-089b4a07dc4f
+metadata:
+  datePublished: '2016-05-11T20:36:55.384Z'
+  sourcePath: _posts/2016-05-11-podcast-2-december-2015.md
+  inFeed: true
+  isBasedOnUrl: null
+  authors: []
+  hasPage: true
+  keywords: []
+  author: []
+  dateModified: '2016-05-12T17:48:23.834Z'
+  title: 'Podcast #2 December 2015'
+  publisher:
+    name: null
+    domain: null
+    url: null
+    favicon: null
+  description: ''
+  inLanguage: null
+  inNav: true
+dateModified: '2016-08-23T02:18:35.833Z'
 title: 'Podcast #2 December 2015'
+datePublished: '2016-08-23T02:18:36.430Z'
 author: []
-sourcePath: _posts/2016-05-11-podcast-2-december-2015.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+description: ''
+publisher: {}
+via: {}
 starred: false
-url: podcast-2-december-2015/index.html
-_type: Article
+sourcePath: _posts/2016-05-11-podcast-2-december-2015.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # [Podcast \#2 December 2015][0]
