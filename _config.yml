@@ -28,6 +28,11 @@ navigation:
   - name: 'Sitting in on the Adidas Nations Semi Final International Game '
     id: f1e4d37d-a1da-4424-ae96-a92a254a402b
     type: content
+  - name: >-
+      6.1.16 In Studio Comcast STL Telestrator breaking down the Cavs for the
+      Finals
+    id: 3bc9fd3e-41dd-4e4d-a9b3-eafdf5d1ed9a
+    type: content
 favicon: null
 collections:
   - index:
