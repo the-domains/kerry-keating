@@ -1,27 +1,27 @@
 ---
+datePublished: '2016-08-24T15:54:28.142Z'
+sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-24T15:54:23.307Z'
-dateModified: '2016-08-24T15:54:22.481Z'
+related: []
 author:
   - name: ''
     url: ''
     avatar: {}
-related: []
-app_links: []
-title: 3.21.16 In Studio on Comcast Sports Talk Live
-sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.md
-authors: []
-publisher: {}
 via: {}
+dateModified: '2016-08-24T15:54:27.599Z'
+title: 3.21.16 In Studio on Comcast Sports Talk Live
+app_links: []
+publisher: {}
+description: ''
+inLanguage: null
+inNav: true
 starred: true
 url: 32116-in-studio-on-comcast-sports-talk-live/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 # 3.21.16 In Studio on Comcast Sports Talk Live
