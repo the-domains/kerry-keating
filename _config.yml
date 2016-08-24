@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: 3.21.16 In Studio on Comcast Sports Talk Live
-    id: 3af27a35-8ec6-4db5-820f-132396890e0e
-    type: content
 favicon: null
 collections:
   - index:
