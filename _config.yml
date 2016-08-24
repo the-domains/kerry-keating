@@ -42,6 +42,9 @@ navigation:
       Finals
     id: 3bc9fd3e-41dd-4e4d-a9b3-eafdf5d1ed9a
     type: content
+  - name: In studio at Comcast STL with Jim Kozimor and Scott Ostler
+    id: c1ef9f06-5df4-4387-a8be-c72f4c1ea40e
+    type: content
 favicon: null
 collections:
   - index:
