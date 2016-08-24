@@ -71,11 +71,11 @@ navigation:
   - name: 'Podcast #4 February 2016'
     id: 8252275a-80cd-4681-beeb-fa3a2085bf35
     type: content
-  - name: 'Podcast #2 December 2015'
-    id: dcaa4dd0-bd3e-4822-a32a-089b4a07dc4f
-    type: content
   - name: 'Podcast #3 January 2016'
     id: 89cd4de3-83f5-4d7e-8512-ef81a9af7e81
+    type: content
+  - name: 'Podcast #2 December 2015'
+    id: dcaa4dd0-bd3e-4822-a32a-089b4a07dc4f
     type: content
   - name: 'Podcast #1 November 2015'
     id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
