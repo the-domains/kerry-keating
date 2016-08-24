@@ -25,11 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: >-
-      6.1.16 In Studio Comcast STL Telestrator breaking down the Cavs for the
-      Finals
-    id: 3bc9fd3e-41dd-4e4d-a9b3-eafdf5d1ed9a
-    type: content
   - name: 3.21.16 In Studio on Comcast Sports Talk Live
     id: 3af27a35-8ec6-4db5-820f-132396890e0e
     type: content
