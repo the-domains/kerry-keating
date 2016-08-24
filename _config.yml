@@ -68,6 +68,9 @@ navigation:
   - name: 3.21.16 In Studio on Comcast Sports Talk Live
     id: 3af27a35-8ec6-4db5-820f-132396890e0e
     type: content
+  - name: 'Podcast #1 November 2015'
+    id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
+    type: content
 favicon: null
 collections:
   - index:
