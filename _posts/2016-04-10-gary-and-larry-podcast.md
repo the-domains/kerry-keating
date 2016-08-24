@@ -1,50 +1,33 @@
 ---
-id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
-metadata:
-  id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
-  metadata:
-    datePublished: '2016-05-11T20:07:24.996Z'
-    sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
-    inFeed: true
-    isBasedOnUrl: 'http://www.knbr.com/gary-larry-podcast/'
-    authors: []
-    hasPage: true
-    keywords: []
-    related: []
-    author:
-      - name: ''
-        url: ''
-    '@context': 'http://schema.org'
-    dateModified: '2016-05-11T20:07:33.626Z'
-    title: 3-28-16 in KNBR Studio with Larry
-    '@type': MediaObject
-    app_links: []
-    publisher:
-      name: KNBR-AM
-      domain: www.knbr.com
-      url: 'http://www.knbr.com'
-      favicon: 'http://www.knbr.com/wp-content/uploads/sites/82/2015/06/favicon.ico'
-    description: ''
-    inLanguage: null
-    inNav: true
-  dateModified: '2016-08-22T18:55:48.522Z'
-dateModified: '2016-08-23T02:18:53.145Z'
-title: 3-28-16 in KNBR Studio with Larry
-datePublished: '2016-08-23T02:18:53.785Z'
-author: []
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: ''
-publisher: {}
+datePublished: '2016-08-24T03:44:18.387Z'
+dateModified: '2016-08-24T03:44:17.650Z'
+author: []
+related: []
+app_links: []
+title: In the KNBR Lounge with Garry & Larry
+sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 via: {}
 starred: false
-sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
-inFeed: true
-hasPage: false
-inNav: false
+url: in-the-knbr-lounge-with-garry-and-larry/index.html
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# [3-28-16 in KNBR Studio with Larry][0]
+# [In the KNBR Lounge with Garry & Larry][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c75c80ca-2024-4255-9f3a-aa6a7b74cc37.jpg)
 
-## [Talking about College Hoops, Warriors and more][0]
+## 
 
-[0]: https://audioboom.com/boos/4359545-3-28-kerry-keating-says-shaun-livingston-is-one-of-the-unsung-players-on-the-w-s?t=0
+[0]: https://audioboom.com/boos/4317057-3-17-gary-and-larry-chat-with-kerry-keating-adonal-foyle?utm_campaign=detailpage&utm_content=retweet&utm_medium=social&utm_source=googleplus
