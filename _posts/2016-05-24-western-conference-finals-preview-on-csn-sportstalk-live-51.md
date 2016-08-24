@@ -7,14 +7,15 @@ keywords: []
 description: >-
   In studio with Jim Kozimor talking about OKC, Westbrook and the coaching
   matchup
-datePublished: '2016-06-05T21:24:11.605Z'
-dateModified: '2016-06-05T21:23:56.814Z'
+datePublished: '2016-08-24T03:46:00.185Z'
+dateModified: '2016-08-24T03:45:59.426Z'
 title: Western Conference Finals Preview on CSN SportsTalk Live 5.16.16
 author: []
 sourcePath: >-
   _posts/2016-05-24-western-conference-finals-preview-on-csn-sportstalk-live-51.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: western-conference-finals-preview-on-csn-sportstalk-live-51/index.html
 _type: Article
