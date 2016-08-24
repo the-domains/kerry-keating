@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-24T03:48:50.281Z'
-dateModified: '2016-08-24T03:48:49.563Z'
+datePublished: '2016-08-24T15:53:43.301Z'
+dateModified: '2016-08-24T15:53:42.791Z'
 author: []
 related: []
 app_links: []
@@ -15,7 +15,7 @@ sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 url: in-the-knbr-lounge-with-garry-and-larry/index.html
 _context: 'http://schema.org'
 _type: MediaObject
