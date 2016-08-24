@@ -1,47 +1,17 @@
 ---
 id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
-metadata:
-  datePublished: '2016-08-23T02:18:42.814Z'
-  sourcePath: _posts/2016-05-11-podcast-1-november-2015.md
-  author: []
-  via: {}
-  metadata:
-    datePublished: '2016-05-11T20:01:02.072Z'
-    sourcePath: _posts/2016-05-11-podcast-1-november-2015.md
-    inFeed: true
-    isBasedOnUrl: null
-    authors: []
-    hasPage: true
-    keywords: []
-    author: []
-    dateModified: '2016-05-11T20:01:02.072Z'
-    title: 'Podcast #1 November 2015'
-    publisher:
-      name: null
-      domain: null
-      url: null
-      favicon: null
-    description: ''
-    inLanguage: null
-    inNav: true
-  dateModified: '2016-08-23T02:18:42.814Z'
-  title: 'Podcast #1 November 2015'
-  id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
-  publisher: {}
-  description: ''
-dateModified: '2016-08-23T02:33:23.651Z'
+dateModified: '2016-08-24T03:50:26.891Z'
 title: 'Podcast #1 November 2015'
-datePublished: '2016-08-23T02:33:24.226Z'
+datePublished: '2016-08-24T03:50:27.568Z'
 author: []
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-05-11-podcast-1-november-2015.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: podcast-1-november-2015/index.html
+_type: Blurb
 
 ---
 # [Podcast \#1 November 2015][0]
