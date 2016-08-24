@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-24T03:45:38.718Z'
+datePublished: '2016-08-24T15:54:14.582Z'
 sourcePath: _posts/2016-08-24-31416-comcast-stl-march-madness-special.md
 author:
   - {}
 via: {}
-dateModified: '2016-08-24T03:45:37.980Z'
+dateModified: '2016-08-24T15:54:13.891Z'
 title: 3.14.16 Comcast STL March Madness Special
 publisher: {}
 description: ''
 hasPage: true
-starred: false
+starred: true
 url: 31416-comcast-stl-march-madness-special/index.html
 _type: MediaObject
 
