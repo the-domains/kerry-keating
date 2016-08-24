@@ -1,37 +1,17 @@
 ---
 id: 8252275a-80cd-4681-beeb-fa3a2085bf35
-metadata:
-  datePublished: '2016-05-11T20:34:24.622Z'
-  sourcePath: _posts/2016-05-11-podcast-4-february-2016.md
-  inFeed: true
-  isBasedOnUrl: null
-  authors: []
-  hasPage: true
-  keywords: []
-  author: []
-  dateModified: '2016-05-11T20:34:24.622Z'
-  title: 'Podcast #4 February 2016'
-  publisher:
-    name: null
-    domain: null
-    url: null
-    favicon: null
-  description: ''
-  inLanguage: null
-  inNav: true
-dateModified: '2016-08-23T02:19:41.827Z'
+dateModified: '2016-08-24T03:50:49.354Z'
 title: 'Podcast #4 February 2016'
-datePublished: '2016-08-23T02:19:42.234Z'
+datePublished: '2016-08-24T03:50:49.982Z'
 author: []
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-05-11-podcast-4-february-2016.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: podcast-4-february-2016/index.html
+_type: Blurb
 
 ---
 # [Podcast \#4 February 2016][0]
