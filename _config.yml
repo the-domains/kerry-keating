@@ -54,6 +54,11 @@ navigation:
   - name: 3.14.16 Comcast STL March Madness Special
     id: ff6155d6-e3d0-4cf1-a311-6e33875947be
     type: content
+  - name: >-
+      In Studio with Damon Bruce talking hoops, life, The original Big East,
+      uniforms and more!
+    id: f4aeb529-5a7e-4ec1-94e5-c02daadba959
+    type: content
 favicon: null
 collections:
   - index:
