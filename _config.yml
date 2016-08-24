@@ -31,6 +31,9 @@ navigation:
   - name: In the KNBR Lounge with Garry & Larry
     id: b77da8a3-8e15-4f91-be13-f811e74e7e7b
     type: content
+  - name: KNBR 4-25-16
+    id: 7f753093-3da2-4d89-a640-acbbb1983451
+    type: content
 favicon: null
 collections:
   - index:
