@@ -30,9 +30,6 @@ navigation:
       Finals
     id: 3bc9fd3e-41dd-4e4d-a9b3-eafdf5d1ed9a
     type: content
-  - name: In the KNBR Lounge with Garry & Larry
-    id: b77da8a3-8e15-4f91-be13-f811e74e7e7b
-    type: content
   - name: Sitting in on the Adidas Nations Semi Final International Game
     id: f1e4d37d-a1da-4424-ae96-a92a254a402b
     type: content
@@ -47,6 +44,9 @@ navigation:
     type: content
   - name: In studio at Comcast STL with Jim Kozimor and Scott Ostler
     id: c1ef9f06-5df4-4387-a8be-c72f4c1ea40e
+    type: content
+  - name: In the KNBR Lounge with Garry & Larry
+    id: b77da8a3-8e15-4f91-be13-f811e74e7e7b
     type: content
   - name: 3-14-16 KNBR in Studio with Murph & Mac
     id: 17009fb0-449d-4f8e-9745-c0a51e78ee73
