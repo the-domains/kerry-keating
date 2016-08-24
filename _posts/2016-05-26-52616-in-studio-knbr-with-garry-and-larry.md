@@ -1,15 +1,15 @@
 ---
 id: aa536599-396b-424f-933c-37baffccbe7c
-dateModified: '2016-08-24T03:45:15.282Z'
+dateModified: '2016-08-24T15:54:04.082Z'
 title: 5.26.16 In Studio KNBR with Garry and Larry
-datePublished: '2016-08-24T03:45:17.084Z'
+datePublished: '2016-08-24T15:54:04.678Z'
 author: []
 description: 'Talking about the makeup of pro teams, Durant on D, Warriors-OKC game 5, more!'
 publisher: {}
 via: {}
 sourcePath: _posts/2016-05-26-52616-in-studio-knbr-with-garry-and-larry.md
 hasPage: true
-starred: false
+starred: true
 url: 52616-in-studio-knbr-with-garry-and-larry/index.html
 _type: Blurb
 
