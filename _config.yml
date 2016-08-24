@@ -65,6 +65,9 @@ navigation:
   - name: 3-28-16 in KNBR Studio with Larry
     id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
     type: content
+  - name: 3.21.16 In Studio on Comcast Sports Talk Live
+    id: 3af27a35-8ec6-4db5-820f-132396890e0e
+    type: content
 favicon: null
 collections:
   - index:
