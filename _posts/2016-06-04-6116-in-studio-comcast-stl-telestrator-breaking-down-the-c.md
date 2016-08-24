@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T03:36:24.254Z'
+datePublished: '2016-08-24T03:44:53.113Z'
 sourcePath: >-
   _posts/2016-06-04-6116-in-studio-comcast-stl-telestrator-breaking-down-the-c.md
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T03:36:23.330Z'
+dateModified: '2016-08-24T03:44:52.356Z'
 title: 6.1.16 In Studio Comcast STL Telestrator breaking down the Cavs for the Finals
 id: 3bc9fd3e-41dd-4e4d-a9b3-eafdf5d1ed9a
 publisher: {}
