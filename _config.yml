@@ -1,4 +1,3 @@
-layout_spectrum: 0.20541438274085522
 typography_spectrum: 0.6304718025494367
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.20541438274085522
 analytics:
   google: null
   facebook: null
@@ -50,4 +50,5 @@ collections:
       format: rss
       number: 10
 title: www.kerrykeating.com
+description: Media
 purpose: []
