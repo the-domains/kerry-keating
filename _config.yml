@@ -48,6 +48,9 @@ navigation:
   - name: In studio at Comcast STL with Jim Kozimor and Scott Ostler
     id: c1ef9f06-5df4-4387-a8be-c72f4c1ea40e
     type: content
+  - name: Western Conference Finals Preview on CSN SportsTalk Live 5.16.16
+    id: 4812a27b-c463-46e7-b63b-8677c3d694da
+    type: content
   - name: KNBR 4-25-16
     id: 7f753093-3da2-4d89-a640-acbbb1983451
     type: content
@@ -61,9 +64,6 @@ navigation:
       In Studio with Damon Bruce talking hoops, life, The original Big East,
       uniforms and more!
     id: f4aeb529-5a7e-4ec1-94e5-c02daadba959
-    type: content
-  - name: Western Conference Finals Preview on CSN SportsTalk Live 5.16.16
-    id: 4812a27b-c463-46e7-b63b-8677c3d694da
     type: content
   - name: 3-28-16 in KNBR Studio with Larry
     id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
