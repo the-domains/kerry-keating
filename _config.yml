@@ -34,6 +34,9 @@ navigation:
   - name: KNBR 4-25-16
     id: 7f753093-3da2-4d89-a640-acbbb1983451
     type: content
+  - name: Sitting in on the Adidas Nations Semi Final International Game
+    id: f1e4d37d-a1da-4424-ae96-a92a254a402b
+    type: content
 favicon: null
 collections:
   - index:
