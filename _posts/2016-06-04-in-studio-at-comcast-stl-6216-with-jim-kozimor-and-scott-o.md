@@ -1,21 +1,19 @@
 ---
-datePublished: '2016-08-24T03:35:04.352Z'
+datePublished: '2016-08-24T03:45:03.785Z'
 sourcePath: >-
   _posts/2016-06-04-in-studio-at-comcast-stl-6216-with-jim-kozimor-and-scott-o.md
-isBasedOnUrl: 'https://youtu.be/4sAnziFcjfo'
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T03:35:02.804Z'
+dateModified: '2016-08-24T03:45:03.191Z'
 title: In studio at Comcast STL with Jim Kozimor and Scott Ostler
 id: c1ef9f06-5df4-4387-a8be-c72f4c1ea40e
 publisher: {}
 description: ''
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: in-studio-at-comcast-stl-with-jim-kozimor-and-scott-ostler/index.html
 _type: MediaObject
 
 ---
