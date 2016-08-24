@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 3-14-16 KNBR in Studio with Murph & Mac
+    id: 17009fb0-449d-4f8e-9745-c0a51e78ee73
+    type: content
 favicon: null
 collections:
   - index:
