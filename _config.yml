@@ -68,9 +68,6 @@ navigation:
   - name: 3-28-16 in KNBR Studio with Larry
     id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
     type: content
-  - name: 'Podcast #1 November 2015'
-    id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
-    type: content
   - name: 'Podcast #2 December 2015'
     id: dcaa4dd0-bd3e-4822-a32a-089b4a07dc4f
     type: content
@@ -79,6 +76,9 @@ navigation:
     type: content
   - name: 'Podcast #4 February 2016'
     id: 8252275a-80cd-4681-beeb-fa3a2085bf35
+    type: content
+  - name: 'Podcast #1 November 2015'
+    id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
     type: content
 favicon: null
 collections:
