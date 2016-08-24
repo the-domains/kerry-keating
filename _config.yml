@@ -30,11 +30,11 @@ navigation:
       Finals
     id: 3bc9fd3e-41dd-4e4d-a9b3-eafdf5d1ed9a
     type: content
-  - name: 3-14-16 KNBR in Studio with Murph & Mac
-    id: 17009fb0-449d-4f8e-9745-c0a51e78ee73
-    type: content
   - name: In the KNBR Lounge with Garry & Larry
     id: b77da8a3-8e15-4f91-be13-f811e74e7e7b
+    type: content
+  - name: 3-14-16 KNBR in Studio with Murph & Mac
+    id: 17009fb0-449d-4f8e-9745-c0a51e78ee73
     type: content
   - name: KNBR 4-25-16
     id: 7f753093-3da2-4d89-a640-acbbb1983451
