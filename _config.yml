@@ -48,6 +48,9 @@ navigation:
   - name: KNBR 4-25-16
     id: 7f753093-3da2-4d89-a640-acbbb1983451
     type: content
+  - name: 3.21.16 In Studio on Comcast Sports Talk Live
+    id: 3af27a35-8ec6-4db5-820f-132396890e0e
+    type: content
   - name: 5.26.16 In Studio KNBR with Garry and Larry
     id: aa536599-396b-424f-933c-37baffccbe7c
     type: content
@@ -64,9 +67,6 @@ navigation:
     type: content
   - name: 3-28-16 in KNBR Studio with Larry
     id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
-    type: content
-  - name: 3.21.16 In Studio on Comcast Sports Talk Live
-    id: 3af27a35-8ec6-4db5-820f-132396890e0e
     type: content
   - name: 'Podcast #1 November 2015'
     id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
