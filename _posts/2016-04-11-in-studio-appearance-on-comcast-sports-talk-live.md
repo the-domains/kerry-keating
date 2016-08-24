@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-24T03:49:16.455Z'
-dateModified: '2016-08-24T03:49:15.758Z'
+datePublished: '2016-08-24T15:54:23.307Z'
+dateModified: '2016-08-24T15:54:22.481Z'
 author:
   - name: ''
     url: ''
@@ -18,7 +18,7 @@ sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.m
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 url: 32116-in-studio-on-comcast-sports-talk-live/index.html
 _type: VideoObject
 _context: 'http://schema.org'
