@@ -1,8 +1,8 @@
 ---
 id: f1e4d37d-a1da-4424-ae96-a92a254a402b
-dateModified: '2016-08-24T03:39:05.559Z'
+dateModified: '2016-08-24T03:40:40.959Z'
 title: Sitting in on the Adidas Nations Semi Final International Game
-datePublished: '2016-08-24T03:39:05.663Z'
+datePublished: '2016-08-24T03:40:41.520Z'
 author: []
 hasPage: true
 description: ''
@@ -10,7 +10,7 @@ publisher: {}
 via: {}
 sourcePath: >-
   _posts/2016-08-09-sitting-in-on-the-adidas-nations-semi-final-international-ga.md
-starred: true
+starred: false
 url: sitting-in-on-the-adidas-nations-semi-final-international-ga/index.html
 _type: Blurb
 
