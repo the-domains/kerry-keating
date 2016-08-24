@@ -36,6 +36,9 @@ navigation:
   - name: Sitting in on the Adidas Nations Semi Final International Game
     id: f1e4d37d-a1da-4424-ae96-a92a254a402b
     type: content
+  - name: Western Conference Finals Preview on CSN SportsTalk Live 5.16.16
+    id: 4812a27b-c463-46e7-b63b-8677c3d694da
+    type: content
   - name: 3.14.16 Comcast STL March Madness Special
     id: ff6155d6-e3d0-4cf1-a311-6e33875947be
     type: content
@@ -44,9 +47,6 @@ navigation:
     type: content
   - name: 3.21.16 In Studio on Comcast Sports Talk Live
     id: 3af27a35-8ec6-4db5-820f-132396890e0e
-    type: content
-  - name: Western Conference Finals Preview on CSN SportsTalk Live 5.16.16
-    id: 4812a27b-c463-46e7-b63b-8677c3d694da
     type: content
   - name: In studio at Comcast STL with Jim Kozimor and Scott Ostler
     id: c1ef9f06-5df4-4387-a8be-c72f4c1ea40e
