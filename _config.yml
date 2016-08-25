@@ -45,9 +45,6 @@ navigation:
   - name: 3.14.16 Comcast STL March Madness Special
     id: ff6155d6-e3d0-4cf1-a311-6e33875947be
     type: content
-  - name: 'Podcast #1 November 2015'
-    id: 42efc185-cf13-4b66-a7b4-2861d28d9c9c
-    type: content
 favicon: null
 collections:
   - index:
