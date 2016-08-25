@@ -45,9 +45,6 @@ navigation:
   - name: 3.14.16 Comcast STL March Madness Special
     id: ff6155d6-e3d0-4cf1-a311-6e33875947be
     type: content
-  - name: 5-16-16 KNBR in studio
-    id: c55ba615-7906-4cee-8dca-ab0c10bee026
-    type: content
   - name: KNBR 4-25-16
     id: 7f753093-3da2-4d89-a640-acbbb1983451
     type: content
