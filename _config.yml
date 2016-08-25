@@ -45,9 +45,6 @@ navigation:
   - name: 3.14.16 Comcast STL March Madness Special
     id: ff6155d6-e3d0-4cf1-a311-6e33875947be
     type: content
-  - name: 'Podcast #4 February 2016'
-    id: 8252275a-80cd-4681-beeb-fa3a2085bf35
-    type: content
   - name: 'Podcast #3 January 2016'
     id: 89cd4de3-83f5-4d7e-8512-ef81a9af7e81
     type: content
