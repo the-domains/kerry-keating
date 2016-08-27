@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T15:54:28.142Z'
+datePublished: '2016-08-26T14:57:29.352Z'
 sourcePath: _posts/2016-04-11-in-studio-appearance-on-comcast-sports-talk-live.md
 inFeed: true
 authors: []
@@ -11,14 +11,14 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-24T15:54:27.599Z'
+dateModified: '2016-08-26T14:57:28.693Z'
 title: 3.21.16 In Studio on Comcast Sports Talk Live
 app_links: []
 publisher: {}
 description: ''
 inLanguage: null
 inNav: true
-starred: true
+starred: false
 url: 32116-in-studio-on-comcast-sports-talk-live/index.html
 _context: 'http://schema.org'
 _type: VideoObject
