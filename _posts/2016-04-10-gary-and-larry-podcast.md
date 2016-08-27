@@ -1,29 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-24T15:53:43.301Z'
-dateModified: '2016-08-24T15:53:42.791Z'
+id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
+dateModified: '2016-08-26T14:54:58.565Z'
+title: 3-28-16 in KNBR Studio with Larry
+datePublished: '2016-08-26T14:54:59.374Z'
 author: []
-related: []
-app_links: []
-title: In the KNBR Lounge with Garry & Larry
-sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
-authors: []
+description: ''
 publisher: {}
 via: {}
+sourcePath: _posts/2016-04-10-gary-and-larry-podcast.md
+hasPage: true
 starred: true
-url: in-the-knbr-lounge-with-garry-and-larry/index.html
-_context: 'http://schema.org'
-_type: MediaObject
+url: 3-28-16-in-knbr-studio-with-larry/index.html
+_type: Blurb
 
 ---
-# [In the KNBR Lounge with Garry & Larry][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c75c80ca-2024-4255-9f3a-aa6a7b74cc37.jpg)
+# [3-28-16 in KNBR Studio with Larry][0]
 
-## 
+## [Talking about College Hoops, Warriors and more][0]
 
-[0]: https://audioboom.com/boos/4317057-3-17-gary-and-larry-chat-with-kerry-keating-adonal-foyle?utm_campaign=detailpage&utm_content=retweet&utm_medium=social&utm_source=googleplus
+[0]: https://audioboom.com/boos/4359545-3-28-kerry-keating-says-shaun-livingston-is-one-of-the-unsung-players-on-the-w-s?t=0
