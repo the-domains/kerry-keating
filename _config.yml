@@ -62,6 +62,9 @@ navigation:
       uniforms and more!
     id: f4aeb529-5a7e-4ec1-94e5-c02daadba959
     type: content
+  - name: In the KNBR Lounge with Garry & Larry
+    id: b77da8a3-8e15-4f91-be13-f811e74e7e7b
+    type: content
 favicon: null
 collections:
   - index:
