@@ -57,6 +57,11 @@ navigation:
   - name: 3-28-16 in KNBR Studio with Larry
     id: f3bcf74c-d1ba-4ec8-9e47-1adac3ab3f5f
     type: content
+  - name: >-
+      In Studio with Damon Bruce talking hoops, life, The original Big East,
+      uniforms and more!
+    id: f4aeb529-5a7e-4ec1-94e5-c02daadba959
+    type: content
 favicon: null
 collections:
   - index:
