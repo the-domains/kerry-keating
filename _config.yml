@@ -45,6 +45,9 @@ navigation:
   - name: 3.14.16 Comcast STL March Madness Special
     id: ff6155d6-e3d0-4cf1-a311-6e33875947be
     type: content
+  - name: 5.26.16 In Studio KNBR with Garry and Larry
+    id: aa536599-396b-424f-933c-37baffccbe7c
+    type: content
 favicon: null
 collections:
   - index:
